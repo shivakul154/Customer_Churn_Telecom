@@ -59,7 +59,7 @@ nbclient==0.10.2
 nbconvert==7.16.6
 nbformat==5.10.4
 nest-asyncio==1.6.0
-numpy==2.2.0
+numpy>=1.21,<2.3
 opencv-python==4.11.0.86
 packaging==24.2
 pandas==2.2.3
@@ -108,7 +108,6 @@ typing_extensions==4.13.2
 tzdata==2024.2
 urllib3==2.3.0
 virtualenv==20.27.1
-virtualenvwrapper-win==1.2.7
 watchdog==6.0.0
 wcwidth==0.2.13
 webencodings==0.5.1
